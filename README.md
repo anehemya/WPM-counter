@@ -10,9 +10,9 @@ Usage
   1) Clone the repository
 
   2) Navigate to the project directory
-  cd wpm.py
-
+     
   3) Run the script:
+  
   python3 wpm.py
   
   4) Type the given text. The program will calculate and display your WPM in real-time.
