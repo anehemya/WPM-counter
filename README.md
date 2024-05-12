@@ -1,4 +1,5 @@
 WPM Counter
+
 This is a simple Python program that calculates and displays the words per minute (WPM) typing speed using the curses library.
 
 Requirements
