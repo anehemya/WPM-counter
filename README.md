@@ -1,12 +1,12 @@
-WPM Counter
+## WPM Counter
 
 This is a simple Python program that calculates and displays the words per minute (WPM) typing speed using the curses library.
 
-Requirements
+# Requirements
 Python 3.x
 curses library (usually comes pre-installed with Python)
 
-Usage
+# Usage
   1) Clone the repository
 
   2) Navigate to the project directory
@@ -19,8 +19,8 @@ Usage
   
   5) To exit the program, press Esc
 
-About
+# About
 This program was created as a simple demonstration of how to calculate WPM using Python. It utilizes the curses library for terminal-based user interface.
 
-Author
+# Author
 Akiva Yeshurun
